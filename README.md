@@ -1,3 +1,3 @@
 # Spielseite
 
-Meine erste kleine, selber gecodede, "Website". Du findest sie unter https://website-games.netlify.app.
+Meine erste kleine, selber gecodede, "Website". Momentan ist sie aber nicht online. Wenn du weißt, wie ich sie veröffentlichen soll, schreib mich über Discord (Emooo#2911) an.
