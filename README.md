@@ -1,3 +1,3 @@
 # Spielseite
 
-Meine erste kleine, selber gecodede, "Website". You can acces the Site on https://website-games.netlify.app.
+Meine erste kleine, selber gecodede, "Website". Du findest sie unter https://website-games.netlify.app.
